@@ -28,8 +28,6 @@ client:
   url: http://www.thefranklinteaminc.com
 
 CTAs:
-  first_CTA_text: Why HBP?
-  first_CTA_URL: https://www.hbprogram.com/why-hbp
   second_CTA_text: Home Valuation
   second_CTA_URL: https://www.thefranklinteaminc.com/home-worth
   third_CTA_text: Home Search
