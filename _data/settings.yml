@@ -30,31 +30,26 @@ client:
 CTAs:
   first_CTA_text: Why HBP?
   first_CTA_URL: https://www.hbprogram.com/why-hbp
-  second_CTA_text: Lease Buyout Application
-  second_CTA_URL: https://www.hbprogram.com/copy-of-getting-started
-  third_CTA_text: Home Buyout Application
-  third_CTA_URL: https://www.hbprogram.com/copy-of-lease-buyout-app
+  second_CTA_text: Home Valuation
+  second_CTA_URL: https://www.thefranklinteaminc.com/home-worth
+  third_CTA_text: Home Search
+  third_CTA_URL: https://www.thefranklinteaminc.com/home-search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Why HBP?"
+    CTA_title: "Home Valuation"
     CTA_text: "The last thing you need to worry about when buying your new dream home is what to do with your old home."
-    CTA_link_text: "We Can Help."
-    CTA_url: https://www.hbprogram.com/why-hbp
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: https://www.thefranklinteaminc.com/home-worth
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Lease Buyout Application"
+    CTA_title2: "Looking for a Home?"
     CTA_text2: "Our program can help you pay off your existing lease, so that you can buy a new home now!"
-    CTA_link_text2: "Learn More"
-    CTA_url2: https://www.hbprogram.com/copy-of-getting-started
+    CTA_link_text2: "Search the MLS"
+    CTA_url2: https://www.thefranklinteaminc.com/home-search
 
-third_sidebar_CTA:
-  - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Home Buyout Application"
-    CTA_text3: "It’s simple to start the process and explore your options with the Home Buyout Program."
-    CTA_link_text3: "Learn More"
-    CTA_url3: https://www.hbprogram.com/copy-of-getting-started
+
 
 lender:
   show_section: false
