@@ -45,7 +45,7 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Home?"
-    CTA_text2: "Our program can help you pay off your existing lease, so that you can buy a new home now!"
+    CTA_text2: "We can help you pay off your existing lease, so that you can buy a new home now!"
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.thefranklinteaminc.com/home-search
 
