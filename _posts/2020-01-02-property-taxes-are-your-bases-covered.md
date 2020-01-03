@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Property Taxes: Are Your Bases Covered?'
-date: 2020-01-02 20:21:43
+date: 2020-01-02 20:21:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -28,7 +28,7 @@ What if you’re unhappy with your assessed value and want to protest your taxes
 
 {% include pullquote.html %}
 
-If you purchased a new construction in 2019, it’s not uncommon for the builders to miscalculate the tax proration credit at closing. Compare the tax statement with your closing statement to see if the builder owes you money. If you have any issues with that process, please contact us and we can help you with that.&nbsp;
+If you purchased a new construction home in 2019, it’s not uncommon for the builders to miscalculate the tax proration credit at closing. Compare the tax statement with your closing statement to see if the builder owes you money. If you have any issues with that process, please contact us and we can help you with that.&nbsp;
 
 Finally, if you purchased a home in 2019 and want to file for your homestead exemption, you need to do so by April 30, 2020. **This exemption allows for a tax break on your property taxes and will stay on the property for future years.&nbsp;**
 
