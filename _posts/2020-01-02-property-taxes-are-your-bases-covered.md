@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/property-taxes-youtube.jpg
-youtube_code: dPkOqb8rXSI
+youtube_code: wttn22_tt3M
 ---
 
 {% include youtube.html %}
