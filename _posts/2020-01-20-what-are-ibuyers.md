@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are iBuyers?
-date: 2020-01-20 20:14:58
+date: 2020-01-20 20:14:00
 tags:
   - Home Seller Tips
 excerpt: We’re answering your questions concerning iBuyers.
@@ -28,6 +28,6 @@ We real estate agents are trying to sell your property for the most money possib
 
 **An iBuyer is going to give you a quick offer for cash,** and a lot of times they can close within a week. They will do an inspection and likely give you a number that will include repair costs, then they’ll let you choose your closing day. However, when you sell to an iBuyer, do not expect them to pay top dollar.&nbsp;
 
-If you want to assess if an iBuyer is the right choice for you, contact us by phone or email. We know the best iBuyers out there and we can help evaluate the offer and compare it to the price and timing you would have if you sold your property the traditional way with our team. One way isn’t necessarily better than the other, it depends on the situation. If you need a quick sale and certainty, and you’re willing to take less money, sometimes an iBuyer is a great route.&nbsp;
+If you want to assess if an iBuyer is the right choice for you, contact us by phone or email. We know the best iBuyers out there and we can help evaluate the offer and compare it to the price and timing you would have if you sold your property the traditional way with our team. One way isn’t necessarily better than the other; it depends on the situation. If you need a quick sale and certainty, and you’re willing to take less money, sometimes an iBuyer is a great route.&nbsp;
 
 **Get us involved. We want to be a resource for you.** If you want to know any more information about iBuyers, please reach out to us.
