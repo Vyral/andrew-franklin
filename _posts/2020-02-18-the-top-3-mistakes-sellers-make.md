@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top 3 Mistakes Sellers Make
-date: 2020-02-18 00:26:10
+date: 2020-02-18 00:26:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: oduf4tkJKF8
 
 {% include youtube.html %}
 
-Here are easily avoidable mistakes we see sellers make all the time:&nbsp;
+Here are three easily avoidable mistakes we unfortunately see sellers make all the time:&nbsp;
 
 **1\. Picking the wrong agent.** We frequently get calls from people who are deeply dissatisfied with their current listing agent. When you’re interviewing an agent, make sure that they’re responsive; test to see how quickly they return your calls or reply to emails. Also, ask them about their experience. How many sales do they have under their belt? Do they truly know your area?
 
