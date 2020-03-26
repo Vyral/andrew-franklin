@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-Approval vs. Pre-Qualification
-date: 2020-03-24 19:31:07
+date: 2020-03-24 19:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,6 +19,6 @@ youtube_code: dMigHPv31ZA
 
 {% include youtube.html %}
 
-Mortgage pre-qualification is an informal evaluation of your financial picture and creditworthiness. It’s a vital step for those who aren’t quite sure what they can afford or if they can afford to buy. If you are more confident in your finances, you want to get a pre-approval instead. Your lender will pull your credit reports and collect your financial documents. If you have lower credit, this pull could affect it, but your score won’t change after that inquiry for 45 days. If you’re pre-approved, you’re ready to pull the trigger on an offer when you find the right home.
+Mortgage pre-qualification is an informal evaluation of your financial picture and creditworthiness. It’s a vital step for those who aren’t quite sure what (or if) they can afford to buy. If you are more confident in your finances, you want to get a pre-approval instead. Your lender will pull your credit reports and collect your financial documents. If you have lower credit, this pull could affect it, but your score won’t change for 45 days after that inquiry. If you’re pre-approved, you’re ready to pull the trigger on an offer when you find the right home.
 
 We have a great team of mortgage lenders, and we’d be happy to assist you with a pre-approval or pre-qualification. Just reach out to us via phone or email today. We look forward to hearing from you soon.
