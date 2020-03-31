@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the Coronavirus Affecting Real Estate?
-date: 2020-03-30 19:34:17
+date: 2020-03-30 19:34:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/yt.jpg
-youtube_code: V5aVxm4TVkE
+youtube_code: EQhOxvF13C4
 ---
 
 {% include youtube.html %}
