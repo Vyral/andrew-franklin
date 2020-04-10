@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buyout-program-youtube.jpg
-youtube_code: T77Y1oTYT9Q
+youtube_code: 8r8SVWC_nmM
 ---
 
 {% include youtube.html %}
