@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/loan-changes-youtube.jpg
-youtube_code: FUNGchaX5HY
+youtube_code: PpnfvRJYPA8
 ---
 
 {% include youtube.html %}
