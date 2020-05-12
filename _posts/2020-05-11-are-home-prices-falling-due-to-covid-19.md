@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Home Prices Falling Due to COVID-19?
-date: 2020-05-11 18:41:41
+date: 2020-05-11 18:41:00
 tags:
   - Market Update
 excerpt: 'Prices are not falling in our Houston market, and here’s why.'
@@ -17,7 +17,7 @@ youtube_code: pFOAQqFB1qM
 
 {% include youtube.html %}
 
-Current clients, past clients, and anyone thinking of selling their home right now are all asking us whether home prices are falling.
+Current clients, past clients, and people thinking of selling their home right now are all asking us whether home prices are falling.
 
 It’s a logical question given the uncertainty in the marketplace due to COVID-19, but the good news is, **prices are not falling, and I don’t see them falling anytime soon.&nbsp;**
 
