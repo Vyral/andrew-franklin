@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Increasing Your Home’s Value
-date: 2020-06-17 21:13:59
+date: 2020-06-17 21:13:00
 tags:
   - Home Seller Tips
 excerpt: Here are several tips that will boost your home’s value before you sell it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Andrew+Franklin/Increasing+Your+Homes+Value.mp4
 pullquote: Boost your home’s curb appeal by focusing on the landscaping.
 enclosure_type: video/mp4
 enclosure_time:
