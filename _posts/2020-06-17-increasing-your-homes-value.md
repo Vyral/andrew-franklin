@@ -27,7 +27,7 @@ Starting on the outside:
 
 **3\. Fix up your fence.** Whether this means resealing or repainting it, the more you take care of your fence, the longer you’ll go without having to spend money to repair it.&nbsp;
 
-**4\. Touch up the front door.** Your home’s front door must be inviting, so applying a fresh coat of paint to it or refinishing it can go a long way. You should also consider adding new hardware. These are all quick fixes you can do by yourself.
+**4\. Touch up the front door.** Your home’s front door must be inviting, so applying a fresh coat of paint or refinishing it can go a long way. You should also consider adding new hardware. These are all quick fixes you can do by yourself.
 
 {% include pullquote.html %}
 
