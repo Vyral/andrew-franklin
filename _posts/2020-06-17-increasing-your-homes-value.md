@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/increase-value-youtube.jpg
-youtube_code: pUpAo9pNy_U
+youtube_code: 5GtpftApMDs
 ---
 
 {% include youtube.html %}
