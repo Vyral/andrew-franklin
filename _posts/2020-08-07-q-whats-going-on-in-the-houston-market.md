@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Going on in the Houston Market?'
-date: 2020-08-07 18:06:39
+date: 2020-08-07 18:06:00
 tags:
   - Market Update
 excerpt: Here’s what you need to know about our real estate market.
@@ -17,11 +17,11 @@ youtube_code: u-CVfXh_ZPo
 
 {% include youtube.html %}
 
-Like everything else in the world recently, the Houston real estate market is ever-changing. **However, what we’ve seen this summer has been very encouraging by all standards and measurements.**
+Like everything else in the world recently, the Houston real estate market has been subject to constant change. **However, what we’ve seen this summer has been very encouraging by all standards and measurements.**
 
-After the stay-at-home orders expired in May, there was a flurry of homes that went under contract, which led to a surge in closings in June. **As a matter of fact, we closed more homes this June than we have in any other month in our nearly 40-year history.**
+After the stay-at-home orders expired in May, there was a flurry of homes that went under contract, which led to a surge of closings in June. **As a matter of fact, we closed more homes this June than we have in any other month in our nearly 40-year history.**
 
-The biggest reasons for this huge jump in activity are low levels of&nbsp; inventory, historically low interest rates, and pent-up demand from buyers. Starting in July, we started to see things cool off a bit, but we still saw houses that were marketed properly, staged well, and priced appropriately to sell quickly.
+The biggest reasons for this huge jump in activity are low levels of&nbsp; inventory, historically low interest rates, and pent-up demand from buyers. Starting in July, we began seeing things cool off a bit, but we still saw houses that were marketed properly, staged well, and priced appropriately in order to sell quickly.
 
 The cooling off of the market was in part due to the renewed worries regarding the spike of COVID cases in Houston. At the same time, it’s still a market where you can get things done if you're a seller or a buyer. Builders are starting to catch up with demand, which is great news.
 
