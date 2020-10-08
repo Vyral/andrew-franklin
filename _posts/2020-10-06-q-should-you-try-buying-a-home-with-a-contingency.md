@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Try Buying a Home With a Contingency?'
-date: 2020-10-06 18:48:24
+date: 2020-10-06 18:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/contingencies-yt.jpg
-youtube_code: NrBR13_RGVY
+youtube_code: FqJLBy8FANQ
 ---
 
 {% include youtube.html %}
