@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-and-tips-yt.jpg
-youtube_code: m0e0-G4UNX0
+youtube_code: QZLz06HCYuI
 ---
 
 {% include youtube.html %}
