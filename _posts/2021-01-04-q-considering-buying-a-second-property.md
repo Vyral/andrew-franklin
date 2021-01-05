@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Considering Buying a Second Property?'
-date: 2021-01-04 22:00:11
+date: 2021-01-04 22:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what you need to know if you’re considering buying a second house.
@@ -17,7 +17,7 @@ youtube_code: NIReTQsXBWc
 
 {% include youtube.html %}
 
-Despite 2020 being a difficult year for many, low interest rates and working from home have caused some people to make a change in their primary residence or consider purchasing a rental or vacation property. If you’re thinking about doing the same, **first determine how the home will be primarily used**—as a rental house or an owner’s retreat? Next, it’s critical to make realistic decisions about your budget when considering buying another property. The last thing you want is to end up with a house you cannot afford.&nbsp;
+Despite 2020 being a difficult year for many, low interest rates and working from home have caused some people to make a change in their primary residence or consider purchasing a rental or vacation property. If you’re thinking about doing the same, **first determine how the home will be primarily used**—will it be a rental house or an owner’s retreat? Next, it’s critical to make realistic decisions about your budget when considering buying another property. The last thing you want is to end up with a house you cannot afford.&nbsp;
 
 Right now is an excellent opportunity to take advantage of the historically low interest rates. However, achieving the best rates for a rental or second property can be tricky. Most lenders charge slightly higher rates for these types of houses, but **overall the rates are still very low.&nbsp;**
 
