@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the 5 Main Negotiating Points of a Real Estate Deal?
-date: 2021-02-23 19:50:14
+date: 2021-02-23 19:50:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -30,6 +30,6 @@ youtube_code: nCSKjyJsIzw
 
 **4\. Repairs.** Are there any repairs that need to be done to the home? Who’s going to pay for them? A pre-inspection isn’t a bad thing to have as a seller, but in this market, buyers might ask for fewer repairs than normal.&nbsp;
 
-**5\. Miscellaneous Items.** These are items that are not normally going to stay with the property, from appliances to furniture to electronics. Those excluded items are certainly negotiable. If you want to keep something in the home, you can ask them to.
+**5\. Miscellaneous Items.** These are items that are not normally going to stay with the property, from appliances to furniture to electronics. Those excluded items are certainly negotiable. If you want to keep something in the home, you can ask.
 
 These are the top five things that can be negotiated in any real estate transaction, but there are so many others. If you have any questions for us or want advice for your specific situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
