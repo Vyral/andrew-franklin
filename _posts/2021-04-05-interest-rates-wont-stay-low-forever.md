@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interest Rates Won’t Stay Low Forever
-date: 2021-04-05 20:25:43
+date: 2021-04-05 20:25:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why you should take advantage of our interest rates while you can.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/interest-rates-yt.jpg
-youtube_code: luqO4dqgC6I
+youtube_code: 7wWK-4GRWi4
 ---
 {% include youtube.html %}
 
