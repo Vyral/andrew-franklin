@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Fall for These Seller’s Market Myths
-date: 2021-04-26 21:10:35
+date: 2021-04-26 21:10:00
 tags:
   - Home Seller Tips
 excerpt: Don’t believe these misconceptions about selling in a seller’s market.
@@ -18,7 +18,7 @@ youtube_code: yeD6pxO6sm8
 ---
 {% include youtube.html %}
 
-As a seller, beware of these four common misconceptions about strong seller’s markets (like the one we’re in):&nbsp;
+As a seller, beware of these four common misconceptions about strong seller’s markets (like the one we’re in):
 
 **1\. You have to be firm on where you’re moving to next before listing your current home.** Fortunately, you have the leverage to be able to negotiate move-out dates and longer-term leasebacks. In the last few deals I’ve closed, the sellers were able to get leasebacks as long as 60 days.&nbsp;
 
