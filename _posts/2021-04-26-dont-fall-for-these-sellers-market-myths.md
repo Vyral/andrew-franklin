@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Fall for These Seller’s Market Myths
-date: 2021-04-26 21:10:00
+date: 2021-04-26 12:10:00
 tags:
   - Home Seller Tips
 excerpt: Don’t believe these misconceptions about selling in a seller’s market.
