@@ -16,13 +16,13 @@ youtube_code: ZkFoe8OO9N4
 ---
 {% include youtube.html %}
 
-Today I’ll talk about why it makes sense to own rental homes.
+Here are four reasons it makes sense to own rental homes:
 
 **1\. Cash flow.** When you get a renter into a house, they start paying your mortgage. Anything left over for profit that you get every month is what we call cash flow. When we're looking at rentals, look for around $400 to $500 per month in cash flow.
 
-**2\. Mortgage assistance.** Say you have a $200,000 loan to buy this rental. The tenant’s rent payments are paying your mortgage so if you have that tenant for years, that loan balance will shrink in turn. When you go to sell, you'll have the equity that that tenant has paid for over time.
+**2\. Mortgage assistance.** Say you have a $200,000 loan to buy this rental. The tenant’s rent payments are paying your mortgage, so if you have that tenant for years, that loan balance will shrink in turn. When you go to sell, you'll have the equity that tenant has paid for over time.
 
-**3\. Appreciation.** Over time, single-family residences appreciate by about 4% every year in the Houston market. In some markets this past year, we saw 10% to 15% appreciation.
+**3\. Appreciation.** Single-family residences appreciate by about 4% every year in the Houston market. In some markets this past year, we saw 10% to 15% appreciation.
 
 **4\. Tax benefits.** Compared to income from your job, you're going to keep a lot more of your rental income because of the tax benefits.
 
