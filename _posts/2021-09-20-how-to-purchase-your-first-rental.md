@@ -36,6 +36,6 @@ There are nine steps you need to take to purchase your first rental property:
 
 **8\. Due diligence period.** This happens after the home goes under contract. You'll need to have the home inspected and appraised to see if it's still going to be a good investment. Any repairs will be identified, rental comps will be analyzed, and agents can help you estimate the total cost.
 
-**9\. Manage the property.** You could do steps one through eight perfectly, but if you mess this step up, your investment will tank. You can either manage the property yourself or outsource that work, but it’s vital to seeing financial success as an investor.
+**9\. Manage the property.** You could do steps one through eight perfectly, but if you mess this step up, your investment will tank. You can either manage the property yourself or outsource that work, but it’s vital if you want to see financial success as an investor.
 
 If you have questions about these steps or anything else related to real estate, don’t hesitate to give us a call or send an email. We look forward to hearing from you soon.
