@@ -27,4 +27,4 @@ Today we wanted to give you five important maintenance tips for the fall season.
 
 **5\. Have your furnace and fireplace inspected.** Have an HVAC company make sure your heater is working and that any service items are taken care of. Have a chimney sweep come out too in case we get another cold snap like we did last year; it’s very cheap.
 
-If there’s ever anything you need with real estate in the Houston area, don’t hesitate to give us a call. We’d love to be a resource for you.
+If you ever need any real estate assistance in the Houston area or have any questions, don't hesitate to give us a call. We’d love to be a resource for you.
