@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways To Spruce Up Your Home Before You List
-date: 2021-11-08 22:52:16
+date: 2021-11-08 22:53:31
 tags:
     - Home Seller Tips
 excerpt: Here are five home-improvement tips to do before listing your house.
