@@ -20,7 +20,7 @@ Today we’re going to talk about five ways you can improve your home before put
 
 **1\. Improve the security of your home.** This can include putting on a new garage door, repairing the fence, or installing a security system.
 
-**2\. Make your home more energy-efficient.** This helps the environment and cuts back on energy bills, both of which buyers will pay extra for.
+**2\. Make your home more energy efficient.** This helps the environment and cuts back on energy bills, both of which buyers will pay extra for.
 
 **3\. Increase your storage space.** You can install a set of garage shelves, an improved closet system, or a streamlined pantry.&nbsp;
 
