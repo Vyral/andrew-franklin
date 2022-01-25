@@ -22,12 +22,12 @@ We hope that you’re all doing well and have had a great 2022 so far\! Today we
 
 Here are some key statistics from the 2021 market:
 
-* In 2021, the average home price increased by 17.6% year over year
+* The average home price increased by 17.6% year over year
 * Around 26.6% of listed homes sold for over their list prices.
 * Rent prices increased by 28.8%
 * There is currently 1.6 months of supply of inventory
 
-So what does this all mean for 2022? For one thing, **builders are going to be a big factor in the supply-demand equation.** Are they going to be able to build enough Houston to get the market closer to equilibrium? In my opinion, probably not. A 1.6 month supply is just too little to start on; plus, there are supply-chain issues that belabor the home-building process, including trades and materials. Pretty much every piece of the construction cycle has been affected by COVID. Because of that, you likely won’t see the cost of new homes coming down any time soon.&nbsp;
+So what does this all mean for 2022? For one thing, **builders are going to be a big factor in the supply-demand equation.** Can they build enough houses to get the market closer to equilibrium? In my opinion, probably not. A 1.6 month supply is just too little to start on; plus, there are supply-chain issues that belabor the home-building process, including trades and materials. Pretty much every piece of the construction cycle has been affected by COVID. Because of that, you likely won’t see the cost of new homes coming down any time soon.&nbsp;
 
 {% include pullquote.html %}
 
