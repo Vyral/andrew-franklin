@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will the 2022 Market Look Like?
-date: 2022-01-25 00:01:05
+date: 2022-01-24 00:01:00
 tags:
   - Market Update
 excerpt: Here’s a look back at the 2021 market followed by some predictions for 2022.
