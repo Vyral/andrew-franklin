@@ -16,6 +16,8 @@ youtube_code: nTJRYDO9NFU
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 In case you haven't heard already, FEMA, which administers the National Flood Insurance Program, has rolled out a new program that will affect five million policyholders nationwide. **Under this new plan, which became effective on Oct 21, 2021, an estimated 77% of policyholders will see their premiums increase, while 23% of policyholders will see their premiums decrease.**
 
 FEMA projects that in the first year, 66% of flood insurance policyholders will see increases of up to $10 a month, 7% will see increases of $10 to $20 per month, and 4% will face monthly increases of more than $20. **The “more than $20” category may be paying several hundred to several thousand more each year.&nbsp;**
