@@ -15,8 +15,6 @@ youtube_code: _1Z-B7vBNLY
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 Today I’ll talk about what's going on in our real estate market in the first quarter of 2022. The Houston real estate market has been turbulent to say the least. Based on the current conditions, though, this might be a perfect opportunity to list your property. Here are three reasons why that's the case:
 
 {% include pullquote.html %}
