@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buy-or-sell-yt.jpg
-youtube_code: qIpbOxOpYTM
+youtube_code: V3fR1csJx2o
 ---
 {% include youtube.html %}
 
